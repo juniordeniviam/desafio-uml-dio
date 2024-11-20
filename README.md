@@ -60,5 +60,5 @@ classDiagram
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ```bash
-https://https://github.com/juniordeniviam/desafio-uml-dio/README.md
+https://github.com/juniordeniviam/desafio-uml-dio/README.md
 ```` 
