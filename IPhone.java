@@ -1,10 +1,10 @@
 
-public class iPhone {
+public class IPhone {
     private ReprodutorMusical reprodutorMusical;
     private AparelhoTelefonico aparelhoTelefonico;
     private NavegadorInternet navegadorInternet;
 
-    public iPhone() {
+    public IPhone() {
         this.reprodutorMusical = new ReprodutorMusical();
         this.aparelhoTelefonico = new AparelhoTelefonico();
         this.navegadorInternet = new NavegadorInternet();
